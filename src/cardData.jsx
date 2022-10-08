@@ -13,7 +13,7 @@ export default[
     {
         id : 2,
         location : "Online",
-        img : "../src/assets/wedding-photography.png",
+        img : "/images/wedding-photography.png",
         rating : 5.0,
         figure : 30,
         desc : "Learn wedding photography",
@@ -24,7 +24,7 @@ export default[
     {
         id : 3,
         location : "Nigeria ",
-        img : "../src/assets/mountain-bike-1.png",
+        img : "/images/mountain-bike-1.png",
         rating : 4.8,
         figure : 2,
         desc : "Group Mountain Biking",
